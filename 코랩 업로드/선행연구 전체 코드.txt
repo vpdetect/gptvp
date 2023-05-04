@@ -1,0 +1,1 @@
+선행 연구에 대한 전체 코드는 https://github.com/selfcontrol7/Korean_Voice_Phishing_Detection 확인할 수 있습니다.
