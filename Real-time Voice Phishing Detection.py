@@ -1,5 +1,3 @@
-#My_OpenAI_key = "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"
-
 import openai, os, sys, time, re
 openai.api_key = "put your OpenAI API"  #이곳에 당신의 OpenAI API를 넣어주세요
 completion = openai.Completion()
