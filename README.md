@@ -4,7 +4,7 @@
 OpenAI를 실험에 사용하기 위해선 openai를 설치하셔야 합니다.
 URL은 다음과 같습니다. https://platform.openai.com/docs/api-reference/introduction
 
-2. OpenAI의 API를 사용하기 위해선 API 키를 개인적으로 발급받아야 합니다. 이를 생성하기 위해서 Google에 openai api key 발급을 검색한 뒤 따라 하시면 API키를 생성하실 수 있습니다. 이를 Real-time Voice Phishing Detection.py 파일의 4번째 줄에 수정하시면 됩니다.
+2. OpenAI의 API를 사용하기 위해선 API 키를 개인적으로 발급받아야 합니다. 이를 생성하기 위해서 Google에 openai api key 발급을 검색한 뒤 따라 하시면 API키를 생성하실 수 있습니다. 이를 Real-time Voice Phishing Detection.py 파일의 3번째 줄에 수정하시면 됩니다.
 
 3. 주피터 노트북 파일 폴더에 있는 파일을 실행할 떄 error가 발생한다면 파일의 경로를 절대경로로 바꾸어 주시길 바랍니다.
 
